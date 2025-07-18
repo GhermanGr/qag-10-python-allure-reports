@@ -1,0 +1,1 @@
+# qag-10-python-allure-reports
